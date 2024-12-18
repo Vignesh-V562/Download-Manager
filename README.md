@@ -117,7 +117,7 @@ a download.
 ## Sample links to test the file
 
 **Audio file mp3**
-Link 1 - <audio controls src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" title="Title"></audio>
+Link 1 - https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
 Link 2 - https://download.samplelib.com/mp3/sample-3s.mp3
 
 **Image**
